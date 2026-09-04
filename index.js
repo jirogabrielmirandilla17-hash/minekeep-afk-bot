@@ -8,7 +8,7 @@ app.listen(process.env.PORT || 3000);
 
 // Replace with your MineKeep Server IP and Port
 const bot = mineflayer.createBot({
-  host: 'cjjsmp.minekeep.net', // Change to your exact server address
+  host: 'cjjsmp.minekeep.gg', // Change to your exact server address
   port: 25565,                  // Change if your server uses a different port
   username: 'AFKSentry',        // The name your bot will use in-game
   version: '1.21.3'             // Change to your server's Minecraft version
